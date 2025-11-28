@@ -557,5 +557,5 @@ export default function RestreamerUI(props) {
 }
 
 RestreamerUI.defaultProps = {
-	address: 'http://core1.spectacol-drone.ro:8091/',
+	address: '',
 };
